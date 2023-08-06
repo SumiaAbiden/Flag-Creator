@@ -1,0 +1,10 @@
+width = input("Flag width:\n")
+width = int(width)
+# Put the rest of your code here!
+a = int(width/2) * "#"
+b = int(width/2) * "-"
+c = int(width) * "-"
+print(a + b)
+print(a + b)
+print(c)
+print(c)
